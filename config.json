@@ -1,0 +1,10 @@
+{
+  "instagram_username": "",
+  "instagram_password": "",
+  "tiktok_cookie": "",
+  "admitad_token": "",
+  "referral_link": "https://ref.admitad.com/l/your-link",
+  "telegram_bot_token": "",
+  "platforms": ["youtube", "tiktok", "instagram"],
+  "niche": "skillbox"
+}
